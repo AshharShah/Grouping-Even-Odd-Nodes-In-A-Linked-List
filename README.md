@@ -1,5 +1,5 @@
 # Grouping-Even-Odd-Nodes-In-A-Linked-List 
- This is a project i got in my 3rd semester in the university in my Data Structures and Algorithms Course.
+ This is a assignment i got in my 3rd semester in the university in my Data Structures and Algorithms Course.
  
  🔵 How it works:
  1) You may enter values into a linked list.
